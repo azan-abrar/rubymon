@@ -1,0 +1,12 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: fire
+  power: one
+  monster_type: fire
+
+two:
+  name: water
+  power: two
+  monster_type: water
+  user_id: 1
